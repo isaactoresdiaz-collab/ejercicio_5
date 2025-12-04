@@ -1,0 +1,50 @@
+  968  clear
+  969  chmod +x respaldo.sh
+  970  bash
+  971  bash.sh
+  972  nano ~/respaldo.sh
+  973  bash
+  974  cd
+  975  ls
+  976  clear
+  977  pwd
+  978  clear
+  979  ls -s /home/sharedDir/dir_lcc_icc_#1/carpeta_compartida
+  980  ls -s /home/sharedDir/dir_lcc_icc_01/carpeta_compartida
+  981  clear
+  982  ln -s /home/sharedDir/dir_lcc_icc_01/carpeta_compartida
+  983  ls
+  984  cd carpeta_compartida
+  985  clear
+  986  ls
+  987  clear
+  988  ls -la
+  989  ln -s /home/sharedDir/dir_lcc_icc_01/ carpeta_compartida
+  990  rm -r carpeta_compartida 
+  991  ln -s /home/sharedDir/dir_lcc_icc_01/ carpeta_compartida
+  992  ls -la
+  993  cd carpeta_compartida/
+  994  ls
+  995  clear
+  996  ls
+  997  rm -r holaatodos 
+  998  ls
+  999  rm -r holaatodos 
+ 1000  cd
+ 1001  ls
+ 1002  clar
+ 1003  mkdir -p ejercicio_5
+ 1004  cd ejercicio_5
+ 1005  nano practica.txt
+ 1006  ls -l practica.txt 
+ 1007  cat practica.txt 
+ 1008  cp practica.txt copia_practica.txt
+ 1009  ls -l practica.txt copia_practica.txt 
+ 1010  chmod 600 practica.txt 
+ 1011  ls -l practica.txt 
+ 1012  chmod 640 practica.txt 
+ 1013  ls -l practica.txt 
+ 1014  whoami
+ 1015  history > comandos.txt
+ 1016  history /tail -n 50 >comandos.txt
+ 1017  history | tail -n 50 >comandos.txt

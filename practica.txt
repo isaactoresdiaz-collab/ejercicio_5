@@ -1,0 +1,7 @@
+NOMBRE:torres sanchez angel eduardo
+FECHA:04/012/25
+
+COMANDOS EJECUTADOS
+1) ls -l
+2) mkdir prueba
+3) echo "hola" > hola.txt
